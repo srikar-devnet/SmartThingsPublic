@@ -1,6 +1,6 @@
 # SmartThings Public GitHub Repo
 
-An official list of SmartApps and Device Types from SmartThings.
+An official list of SmartApps and Device Types from SmartThings. Test Github SmartThings.
 
 Here are some links to help you get started coding right away:
 
